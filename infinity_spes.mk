@@ -16,8 +16,8 @@ $(call inherit-product, vendor/infinity/config/common_full_phone.mk)
 
 # infinity stuffs
 INFINITY_BUILD_TYPE := UNOFFICIAL
-WITH_GAPPS := false
-INFINITY_MAINTAINER := Muralidharan K
+WITH_GAPPS := true
+INFINITY_MAINTAINER := Sehraan
 
 # Product Specifics
 PRODUCT_NAME := infinity_spes
